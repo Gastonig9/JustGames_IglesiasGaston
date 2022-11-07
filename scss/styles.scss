@@ -1,0 +1,20 @@
+@import './componentes/_body.scss';
+@import './componentes/_nav.scss';
+@import './componentes/_header.scss';
+@import './componentes/_footer.scss';
+
+/***PAGE INDEX***/
+@import 'componentes/pageindex/_sectionCardsIndex.scss';
+@import 'componentes/pageindex/_sectionAnalisisIndex.scss';
+@import 'componentes/pageindex/_sectionGuiasIndex.scss';
+@import 'componentes/pageindex/_sectionTopIndex.scss';
+@import 'componentes/pageindex/_sectionSocialIndex.scss';
+
+/*** PAGINA NOTICIAS ***/
+@import 'componentes/pageNoticias/_seccionNoticias.scss';
+@import 'componentes/pageNoticias/_seccionConsolas.scss';
+@import 'componentes/pageNoticias/_seccionTrailer.scss';
+
+/*** PAGINA LANZAMIENTOS ***/
+@import 'componentes/pageLanzamientos/_seccionLanzamientos.scss';
+
